@@ -66,3 +66,4 @@
 /home/marcs/Avalonia/NuTask/NuTask/obj/Debug/net8.0/NuTask.csproj.CopyComplete
 /home/marcs/Avalonia/NuTask/NuTask/obj/Debug/net8.0/NuTask.genruntimeconfig.cache
 /home/marcs/Avalonia/NuTask/NuTask/obj/Debug/net8.0/ref/NuTask.dll
+/home/marcs/Avalonia/NuTask/NuTask/obj/Debug/net8.0/NuTask.sourcelink.json
