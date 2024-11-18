@@ -1,0 +1,2 @@
+/home/marcs/Avalonia/NuTask/NuTask/bin/Release/net8.0/win-x64/publish/NuTask.pdb
+/home/marcs/Avalonia/NuTask/NuTask/bin/Release/net8.0/win-x64/publish/NuTask.exe
