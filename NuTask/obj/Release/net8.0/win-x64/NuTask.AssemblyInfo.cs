@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NuTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeffcc460a1911e6267fd2a3812fa98ade8ed7d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NuTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NuTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
